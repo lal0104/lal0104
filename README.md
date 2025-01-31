@@ -1,8 +1,8 @@
 ![logo](https://github.com/lal0104/lal0104/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harsha Lal</h1>
 <h3 align="center">Data Analyst | Business Analyst | Data Scientist | Driving Insights Through Analytics & AI</h3>
-<img align ="right" alt="coding" width ="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lal0104&label=Profile%20views&color=0e75b6&style=flat" alt="lal0104" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lal0104&label=Profile%20views&color=0e75b6&style=flat" alt="lal0104" /> </p>
+<img align ="right" alt="coding" width ="300" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
 
 - 💬 Ask me about **Data Science & Analytics, Machine Learning, Applications Power BI & Data Visualization, Optimizing Business Decisions with Data-Driven Insights**
 
@@ -14,12 +14,14 @@
 
 - ⚡ Fun fact **I speak fluent data—so if you ever need a translator for numbers, I'm your person! 📊🗣️**
 
-<h3 align="left">Connect with me:</h3>
+
+<div>
+  <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/lal-harsha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha lal" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -50,9 +52,12 @@
     <img src="https://i.pinimg.com/736x/13/88/5f/13885f590c6070c7f106b0f19a17ab9b.jpg" alt="MS Excel" width="40" height="40"/>
   </a>
 </p>
+</div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lal0104&show_icons=true&locale=en&layout=compact" alt="lal0104" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=lal0104&show_icons=true&locale=en" alt="lal0104" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lal0104&show_icons=true&locale=en&layout=compact" alt="lal0104" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lal0104&show_icons=true&locale=en" alt="lal0104" /></p>
 
