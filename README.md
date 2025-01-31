@@ -1,20 +1,20 @@
 ![logo](https://github.com/lal0104/lal0104/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harsha Lal</h1>
 <h3 align="center">Data Analyst | Business Analyst | Data Scientist | Driving Insights Through Analytics & AI</h3>
-<div align ="center">
-<img align ="center" alt="coding" width ="300" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
+<div >
+<img align ="right" alt="coding" width ="300" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lal0104&label=Profile%20views&color=0e75b6&style=flat" alt="lal0104" /> </p>
+
+💬 Ask me about **Data Science & Analytics, Machine Learning, Applications Power BI & Data Visualization, Optimizing Business Decisions with Data-Driven Insights**
+
+🌱 I’m currently learning **MLOps & Model Deployment**
+
+📫 How to reach me **📧 Email: lal.harsha0104@gmail.com**
+
+📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1wRb7GnGl1iGxflu1vTLN_DZkxwStbgUv)
+
+⚡ Fun fact **I speak fluent data—so if you ever need a translator for numbers, I'm your person! 📊🗣️**
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lal0104&label=Profile%20views&color=0e75b6&style=flat" alt="lal0104" /> </p>
-
-- 💬 Ask me about **Data Science & Analytics, Machine Learning, Applications Power BI & Data Visualization, Optimizing Business Decisions with Data-Driven Insights**
-
-- 🌱 I’m currently learning **MLOps & Model Deployment**
-
-- 📫 How to reach me **📧 Email: lal.harsha0104@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1wRb7GnGl1iGxflu1vTLN_DZkxwStbgUv)
-
-- ⚡ Fun fact **I speak fluent data—so if you ever need a translator for numbers, I'm your person! 📊🗣️**
 
 <div>
   <h3 align="left">Connect with me:</h3>
