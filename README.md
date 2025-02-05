@@ -7,8 +7,6 @@
 
 💬 Ask me about **Data Science & Analytics, Machine Learning, Applications Power BI & Data Visualization, Optimizing Business Decisions with Data-Driven Insights**
 
-🌱 I’m currently learning **MLOps & Model Deployment**
-
 📫 How to reach me **📧 Email: lal.harsha0104@gmail.com**
 
 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1wRb7GnGl1iGxflu1vTLN_DZkxwStbgUv)
