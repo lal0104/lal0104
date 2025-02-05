@@ -75,14 +75,14 @@
         <b>Customer Churn Prediction</b>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lal0104/Google-Playstore-Dataset-EDA">
         <img src="1_75SwvWQrspM0aKlN02uWTQ.jpg" width="300px" height="150px"><br>
         <b>Google-Playstore-Dataset-EDA</b>
       </a>
     </td>
-  </tr>
-  <tr>
 <td align="center">
       <a href="https://github.com/lal0104/Comprehensive-Analysis-of-Music-Industry-Trends-using-Power-BI">
         <img src="unnamed.jpg" width="300px" height="150px"><br>
@@ -95,6 +95,8 @@
         <b>SQL Powered Hotel Reservation Analytics</b>
       </a>
     </td>
+  </tr>
+    <tr>
     <td align="center">
       <a href="https://github.com/lal0104/Cats-and-Dog-Classification-">
         <img src="AdobeStock_84016419.webp" width="300px" height="150px"><br>
